@@ -15,8 +15,8 @@
 
   <distributionManagement>
     <repository>
-      <id>github</id>
-      <name>GitHub Packages</name>
+      <id>sushant-repo</id>
+      <name>github-actions-ci-cd-java</name>
 
       <!-- REPLACE WITH YOUR GITHUB_USERNAME and GITHUB_REPONAME -->
       <url>https://maven.pkg.github.com/GITHUB_USERNAME/GITHUB_REPONAME</url>
