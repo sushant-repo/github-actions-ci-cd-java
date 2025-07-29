@@ -11,15 +11,15 @@
   <version>1.0.0</version>
 
   <!-- REPLACE WITH YOUR GITHUB_USERNAME -->
-  <groupId>GITHUB_USERNAME</groupId>
+  <groupId>sushant-repo</groupId>
 
   <distributionManagement>
     <repository>
-      <id>sushant-repo</id>
-      <name>github-actions-ci-cd-java</name>
-
+      <id>github</id>
+      <name>GitHub Packages</name>
+             
       <!-- REPLACE WITH YOUR GITHUB_USERNAME and GITHUB_REPONAME -->
-      <url>https://maven.pkg.github.com/GITHUB_USERNAME/GITHUB_REPONAME</url>
+      <url>https://maven.pkg.github.com/sushant-repo/github-actions-ci-cd-java</url>
 
     </repository>
   </distributionManagement>
